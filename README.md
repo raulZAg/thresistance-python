@@ -1,6 +1,6 @@
 # The Resistance Bot - "MyBot_Raul"
 
-This repository contains a Python bot for the cooperative card game Hanabi, developed using the Hanabi Python framework by Joseph Walton-Rivers. The bot, named "MyBot_Raul", uses a combination of decision trees and Bayesian statistics to make decisions during gameplay.
+This repository contains a Python agent for the card game The Resistance, developed using The Resistance Python framework by Joseph Walton-Rivers. The bot, named "MyBot_Raul", uses a combination of decision trees and Bayesian statistics to make decisions during gameplay.
 
 ## Project Overview
 
