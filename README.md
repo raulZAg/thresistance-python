@@ -1,10 +1,10 @@
-# Hanabi Bot - "MyBot_Raul"
+# The Resistance Bot - "MyBot_Raul"
 
 This repository contains a Python bot for the cooperative card game Hanabi, developed using the Hanabi Python framework by Joseph Walton-Rivers. The bot, named "MyBot_Raul", uses a combination of decision trees and Bayesian statistics to make decisions during gameplay.
 
 ## Project Overview
 
-Hanabi is a cooperative card game where players, who can see other players' cards but not their own, must play cards in the correct order to win the game. In this project, I've developed a bot that can play Hanabi independently.
+"The Resistance" is a social deduction game for 5-10 players. Players are either members of the Resistance or Spies. In several rounds, teams are selected to go on missions. Spies aim to sabotage missions while the Resistance tries to succeed. The game's outcome is decided when a certain number of missions have either succeeded (Resistance wins) or failed (Spies win). In this project, I've developed a bot that can play The Resistance in different groups of previously programmed bots.
 
 The logic of "MyBot_Raul" is based on a combination of decision trees and Bayesian statistics. The bot uses a series of decision rules, based on the current state of the game, to make its decisions. It also incorporates a probability function to update the bot's knowledge state and make decisions accordingly.
 
@@ -30,8 +30,8 @@ python competition.py 10000 bots/experts.py bots/MyBot_Raul.py
 
 ## File Overview
 
-MyBot_Raul.py: This is the main bot file. It contains the logic and decision rules for the bot to play Hanabi.
-In 'The Resistance' folder is everything needed to run the project. This is what I used to play Hanabi with my bot. 
+MyBot_Raul.py: This is the main bot file. It contains the logic and decision rules for the bot to play The Resistance.
+In 'The Resistance' folder is everything needed to run the project. This is what I used to play The Resistance with my bot. 
 
 ## Bot Strategy
 
